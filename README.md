@@ -2,8 +2,6 @@
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
 * In this project, I use multiple techniques to train and evaluate supervised machine learning models based on loan risk.
 *  We use a dataset of historical lending activity from a peer-to-peer lending services company to build models that can identify the creditworthiness of borrowers.
 * Within the data, we have the following variables, to use when training the models on the borrowers credit rating:
